@@ -13,7 +13,7 @@ const Stack = createNativeStackNavigator();
 const globalScreenOptions = {
   headerStyle: { backgroundColor: "#2C6BED"},
   headerTitleStyle: {color: "White"},
-  headerTintColor: "White",
+  headerTintColor: "White"
 };
 
 export default function App() {
